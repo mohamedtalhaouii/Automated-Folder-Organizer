@@ -1,5 +1,7 @@
 # Folder Organizer Script
 
+![with same back](https://github.com/user-attachments/assets/5984a236-6af1-458e-9b56-e62ec60a438a)
+
 ## Overview
 
 The `organizer.sh` script automates the process of organizing files within a specified directory. It sorts files into subfolders based on their file types, helping users keep their directories clean and organized.
