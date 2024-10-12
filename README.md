@@ -27,7 +27,7 @@ The `organizer.sh` script automates the process of organizing files within a spe
 1. **Clone the repository** (if applicable):
    ```bash
    git clone https://github.com/mohamedtalhaouii/Automated-Folder-Organizer.git
-   cd yourrepository
+   cd Automated-Folder-Organizer
    ```
 
 2. **Download the script**:
