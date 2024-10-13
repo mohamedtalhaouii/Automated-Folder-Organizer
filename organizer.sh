@@ -18,10 +18,10 @@ organize_files() {
     echo "Organizing files in $TARGET_DIR..."
 
     # Move image files
-    mv "$TARGET_DIR"/*.{jpg,jpeg,png,gif,bmp,tiff,svg} "$TARGET_DIR"/Images/ 2>/dev/null
+    mv "$TARGET_DIR"/*.{jpg,jpeg,png,gif,bmp,tiff,svg,ico,avif} "$TARGET_DIR"/Images/ 2>/dev/null
 
     # Move document files
-    mv "$TARGET_DIR"/*.{pdf,doc,docx,txt,ppt,pptx,xls,xlsx} "$TARGET_DIR"/Documents/ 2>/dev/null
+    mv "$TARGET_DIR"/*.{pdf,doc,docx,txt,ppt,pptx,xls,xlsx,epub} "$TARGET_DIR"/Documents/ 2>/dev/null
 
     # Move video files
     mv "$TARGET_DIR"/*.{mp4,mkv,avi,mov,wmv,flv} "$TARGET_DIR"/Videos/ 2>/dev/null
