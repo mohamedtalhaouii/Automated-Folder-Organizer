@@ -85,8 +85,8 @@ To run the `organizer.sh` script on Windows using WSL:
 You can modify the script to add more file types or change the folder structure as per your preferences. 
 
 ### File Types Supported
-- **Images**: `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.tiff`, `.svg`
-- **Documents**: `.pdf`, `.doc`, `.docx`, `.txt`, `.ppt`, `.pptx`, `.xls`, `.xlsx`
+- **Images**: `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.tiff`, `.svg` `.avif` , `.ico`
+- **Documents**: `.pdf`, `.doc`, `.docx`, `.txt`, `.ppt`, `.pptx`, `.xls`, `.xlsx` , `.epub`
 - **Videos**: `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv`, `.flv`
 - **Music**: `.mp3`, `.wav`, `.aac`, `.flac`, `.ogg`
 - **Archives**: `.zip`, `.tar.gz`, `.tar.bz2`, `.rar`, `.7z`
