@@ -98,3 +98,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+<hr>
+<h3 align="center"> 🧑🏻‍💻 | <a href="https://github.com/mohamedtalhaouii" target="_blank">Mohamed Talhaoui</a></h3>
